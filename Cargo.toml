@@ -1,0 +1,8 @@
+[package]
+name = "xurls"
+version = "0.1.0"
+authors = ["Mike Schmidt <schmidmt@gmail.com>"]
+
+[dependencies]
+clap = "2.20.5"
+regex = "0.2"
